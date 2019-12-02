@@ -1,5 +1,5 @@
 # handOWI
-Hand gesture controlled OWI robotic arm with Python and OpenCV
+Hand gesture controlled OWI robotic arm with Matlab
 
 This program is designed for OWI-535 robotic arm edge. A webcam is used to capture live image.
 
