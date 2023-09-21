@@ -13,3 +13,7 @@ b. Image processing:
   3. Determining direction of the motor: use atan2d function to find the angle between the centroid of the palm and the centroid of the fingers.
 
 c. Pass direction to arduino, control the movement
+
+
+Demo video:
+https://youtu.be/TgM2ST8WmoI?si=Lm3f2UdDPqu7qz89
